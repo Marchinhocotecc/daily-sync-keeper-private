@@ -1,0 +1,13 @@
+{
+  "welcome": "欢迎",
+  "login": "登录",
+  "logout": "退出",
+  "settings": "设置",
+  "profile": "个人资料",
+  "save": "保存",
+  "cancel": "取消",
+  "title": "助手",
+  "description": "您的每日同步助手。",
+  "inputPlaceholder": "输入消息...",
+  "send": "发送"
+}

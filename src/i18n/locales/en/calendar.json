@@ -1,0 +1,10 @@
+{
+  "title": "Calendar",
+  "eventTitle": "Event title",
+  "search": "Search events",
+  "searchPlaceholder": "Search...",
+  "filterDate": "Filter date",
+  "duration": "Duration (min)",
+  "deleteEvent": "Delete event {{title}}",
+  "empty": "No events found."
+}

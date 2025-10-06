@@ -1,0 +1,13 @@
+{
+  "welcome": "Bienvenue",
+  "login": "Connexion",
+  "logout": "Déconnexion",
+  "settings": "Paramètres",
+  "profile": "Profil",
+  "save": "Enregistrer",
+  "cancel": "Annuler",
+  "title": "Assistant",
+  "description": "Votre aide pour la synchronisation quotidienne.",
+  "inputPlaceholder": "Tapez votre message...",
+  "send": "Envoyer"
+}

@@ -1,0 +1,30 @@
+{
+  "nav": {
+    "label": "Main navigation",
+    "home": "Home",
+    "calendar": "Calendar",
+    "expenses": "Expenses",
+    "assistant": "Assistant",
+    "settings": "Settings"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "themes": {
+      "light": "Light",
+      "dark": "Dark"
+    },
+    "lang": {
+      "it": "Italian",
+      "en": "English"
+    }
+  },
+  "common": {
+    "add": "Add",
+    "delete": "Delete",
+    "clear": "Clear",
+    "save": "Save",
+    "cancel": "Cancel"
+  }
+}

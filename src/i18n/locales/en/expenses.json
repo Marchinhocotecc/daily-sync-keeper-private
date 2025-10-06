@@ -1,0 +1,6 @@
+{
+  "title": "Expenses",
+  "empty": "No expenses yet.",
+  "placeholderManager": "Embed your ExpensesManager component for full features.",
+  "currency": "€"
+}

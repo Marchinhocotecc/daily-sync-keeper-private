@@ -1,0 +1,16 @@
+{
+  "dailyActivities": "Today",
+  "noEventsToday": "No events today",
+  "tasks": "Tasks",
+  "newTask": "New task",
+  "taskPlaceholder": "Task name",
+  "priority": "Priority",
+  "priorityLevels": {
+    "low": "Low",
+    "medium": "Medium",
+    "high": "High"
+  },
+  "toggleTask": "Toggle task {{task}}",
+  "wellness": "Wellness",
+  "wellnessPlaceholder": "Track your wellbeing here soon."
+}

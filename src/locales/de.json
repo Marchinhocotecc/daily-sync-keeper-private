@@ -1,0 +1,13 @@
+{
+  "welcome": "Willkommen",
+  "login": "Anmelden",
+  "logout": "Abmelden",
+  "settings": "Einstellungen",
+  "profile": "Profil",
+  "save": "Speichern",
+  "cancel": "Abbrechen",
+  "title": "Assistent",
+  "description": "Dein Helfer für die tägliche Synchronisierung.",
+  "inputPlaceholder": "Nachricht eingeben...",
+  "send": "Senden"
+}

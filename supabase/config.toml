@@ -1,0 +1,14 @@
+# Minimal Supabase config for local development.
+# Adjust ports if they clash with your system.
+[project]
+id = "daily-sync-keeper"
+
+[api]
+enabled = true
+port = 8080
+
+[db]
+port = 54322
+
+[studio]
+port = 54323

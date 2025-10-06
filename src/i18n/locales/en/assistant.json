@@ -1,0 +1,10 @@
+{
+  "title": "Assistant",
+  "chatLog": "Chat log",
+  "inputPlaceholder": "Type your message...",
+  "inputAria": "Assistant message input",
+  "send": "Send",
+  "typing": "Assistant is typing...",
+  "empty": "No messages yet.",
+  "echo": "You said: {{text}}"
+}

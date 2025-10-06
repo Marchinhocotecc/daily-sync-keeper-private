@@ -1,0 +1,40 @@
+{
+  // ...existing keys...
+  "priority": {
+    // ...existing priority keys...
+    "high": "Alta",
+    "medium": "Media",
+    "low": "Bassa"
+  },
+  "home": {
+    // ...existing home keys...
+    "title": "Dashboard",
+    "dailyActivities": {
+      "title": "Attività di oggi",
+      "empty": "Nessun evento oggi"
+    },
+    "tasks": {
+      "title": "Task",
+      "addButton": "Aggiungi task",
+      "empty": "Nessun task ancora",
+      "deleteConfirm": "Eliminare questo task?",
+      "added": "Task aggiunto",
+      "updated": "Task aggiornato",
+      "deleted": "Task eliminato",
+      "errorGeneric": "Errore inatteso",
+      "form": {
+        "titleLabel": "Titolo",
+        "titlePlaceholder": "Inserisci un task",
+        "priorityLabel": "Priorità",
+        "submit": "Salva",
+        "cancel": "Annulla"
+      }
+    },
+    "wellness": {
+      "title": "Benessere",
+      "steps": "Passi",
+      "calories": "Calorie"
+    }
+  }
+  // ...existing keys...
+}
